@@ -12,6 +12,7 @@ main{
     display:flex;
     flex-direction:row;
     margin: 0px;
+    margin-left: 50px;
     padding: 0px;
   }
   .round{
@@ -22,6 +23,7 @@ main{
     list-style:none;
     padding:0;
     margin: 0;
+    margin-left: 50px;
   }
     .round .spacer{ flex-grow:1; }
     .round .spacer:first-child,
@@ -66,7 +68,7 @@ main{
     li.game-bottom{ 
       border-top:1px solid #aaa;
     }
-    .bracketS{
+    .{
       margin-left: 20%;
     }
     .tourHead{

@@ -989,7 +989,7 @@
 					"trophy",
 					"cup",
 					"winner",
-					"tournament",
+					"",
 					"race",
 					"award"
 				],
@@ -18436,7 +18436,7 @@
 					"prize",
 					"award",
 					"winner",
-					"tournament"
+					""
 				],
 				"grid": 16
 			},

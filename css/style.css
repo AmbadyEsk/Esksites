@@ -123,7 +123,7 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .esk-cover {
-    heifght: inherit;
+    height: inherit;
     padding: 3em 0;
   }
 }
@@ -140,7 +140,7 @@ figure {
 }
 @media screen and (max-width: 768px) {
   .esk-cover.esk-cover_2 {
-    heifght: inherit;
+    height: inherit;
     padding: 3em 0;
   }
 }
@@ -162,7 +162,7 @@ figure {
   color: #fff;
   font-size: 55px;
   font-weight: 300;
-  padding-top: 180px;
+  padding-top: 30px;
   margin-bottom: 10px;
   line-height: 60px;
   letter-spacing: 1px;
@@ -317,10 +317,12 @@ figure {
 #main-logo{
   height: 100px;
   margin-top: -13px;
+  
 }
 #logo-logo{
   height: 75px;
   margin-top: -13px;
+  
 }
 
 
@@ -332,14 +334,17 @@ figure {
   float: left;
   margin-bottom: 0;
   margin-top: 0;
+  
 }
 #esk-logo a {
   position: relative;
+  padding-top: 300px;
 }
 #esk-logo a:after {
   position: absolute;
   content: '';
   top: 20px;
+  
   left: -20px;
   background: #DA1212;
   width: 10px;
@@ -348,6 +353,7 @@ figure {
 #esk-logo span {
   padding: 0;
   margin: 0;
+  
   font-weight: 100;
 }
 @media screen and (max-width: 768px) {
@@ -355,8 +361,21 @@ figure {
     width: 100%;
     float: none;
     text-align: center;
+    
   }
 }
+.esk-name-logoimage{
+  margin-top: -476px;
+  width: 100px;
+  height: 120PX;
+}
+
+.esk-name-logo{
+  margin-top: -479px;
+  width: 250px;
+  
+}
+
 #esk-logo a {
   color: #fff;
 }
@@ -377,7 +396,7 @@ figure {
 #esk-primary-menu > li > .sf-with-ul:after {
   border: none !important;
   font-family: 'icomoon';
-  speak: none;
+  speak-as: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -400,7 +419,7 @@ figure {
 #esk-primary-menu > li > ul li > .sf-with-ul:after {
   border: none !important;
   font-family: 'icomoon';
-  speak: none;
+  speak-as: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
