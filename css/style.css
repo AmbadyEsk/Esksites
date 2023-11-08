@@ -321,8 +321,15 @@ figure {
 }
 #logo-logo{
   height: 75px;
-  margin-top: -13px;
+  margin-top: 7px;
+  margin-left: 10px;
   
+}
+
+.homepageLogo{
+    height: 200px;
+    margin-left: 110px;
+    margin-top: 240px;
 }
 
 
