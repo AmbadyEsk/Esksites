@@ -94,6 +94,7 @@ figure {
 .esk-hero.esk-hero-2 {
   height: 600px;
 }
+
 .esk-cover.esk-hero-2 .esk-overlay,
 .esk-hero.esk-hero-2 .esk-overlay {
   position: absolute !important;
@@ -116,6 +117,25 @@ figure {
   z-index: 1;
   background: rgba(0, 0, 0, 0.3);
 }
+.textOurTeams{
+  background-color: white;
+}
+.ourTeamLogos1{
+  width: 117px;
+  float: left;
+  margin-top: 300px;
+  margin-left: 15px;
+}
+.ourTeamLogos2{
+  width: 117px;
+  margin-left: -314px;
+  margin-top: 422px;
+  } 
+  .ourTeamLogos3{
+    width: 117px;
+    margin-top: 422px;
+    margin-left: 7px;
+    } 
 
 .esk-cover {
   background-size: cover;
@@ -331,7 +351,11 @@ figure {
     margin-left: 110px;
     margin-top: 240px;
 }
-
+.tournamentname{
+  height: 492px;
+  margin-top: 151px;
+  margin-left: -43px;
+}
 
 #ESK-logo {
   z-index: 2;
@@ -1467,7 +1491,7 @@ figure {
       font-weight: 400; }
   .custom-table tbody tr:last-child td {
     border: none; }
-
-
-
+  .lastLogo{
+    width: 250px;
+  }
 /*# sourceMappingURL=style.css.map */
