@@ -348,7 +348,7 @@ figure {
 
 .homepageLogo{
     height: 200px;
-    margin-left: 110px;
+    margin-left: 100px;
     margin-top: 240px;
 }
 .tournamentname{
@@ -365,8 +365,8 @@ figure {
   float: left;
   margin-bottom: 0;
   margin-top: 0;
-  
-}
+  }
+
 #esk-logo a {
   position: relative;
   padding-top: 300px;
@@ -1495,3 +1495,5 @@ figure {
     width: 250px;
   }
 /*# sourceMappingURL=style.css.map */
+
+
