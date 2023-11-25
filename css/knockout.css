@@ -23,7 +23,7 @@ main{
     list-style:none;
     padding:0;
     margin: 0;
-    margin-left: 50px;
+
   }
     .round .spacer{ flex-grow:1; }
     .round .spacer:first-child,
@@ -39,10 +39,9 @@ main{
   body{
     font-family:sans-serif;
     font-size:small;
-    padding:10px;
+    
     line-height:1.4em;
-    margin-left: -50px;
-    margin-right: -50px;
+   margin: 0PX;
     
   }
   
