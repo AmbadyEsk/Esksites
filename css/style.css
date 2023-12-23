@@ -340,7 +340,7 @@ figure {
   
 }
 #logo-logo{
-  height: 75px;
+  height: 65px;
   margin-top: 7px;
   margin-left: 10px;
   
@@ -1192,7 +1192,7 @@ figure {
   display: -moz-inline-stack;
   display: inline-block;
   zoom: 1;
-  *display: inline;
+  *display inline;
   width: 30px;
   height: 2px;
   color: #fff;
